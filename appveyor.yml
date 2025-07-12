@@ -2,6 +2,7 @@
 
 qwe1
 qwe3
+asd4
 
 version: '{branch}.{build}'
 install:
