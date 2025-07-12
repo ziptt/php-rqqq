@@ -4,6 +4,7 @@ qwe1
 qwe3
 asd4
 qwe5
+asd6
 
 version: '{branch}.{build}'
 install:
