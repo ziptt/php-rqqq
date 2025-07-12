@@ -1,6 +1,7 @@
 # Based on igbinary's appveyor config.
 
 qwe1
+qwe3
 
 version: '{branch}.{build}'
 install:
